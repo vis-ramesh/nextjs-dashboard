@@ -1,0 +1,18 @@
+.shape {
+    height: 0;
+    width: 0;
+    border-bottom: 30px solid black;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+  }
+
+  .shape2{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    border-color: red;
+    border-width: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
