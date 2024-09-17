@@ -41,7 +41,7 @@ export default function Page() {
             alt="Screenshots of the dashboard project showing desktop version"
           />
         </div>
-        <img src="" alt="" />
+        
       </div>
       
     </main>
